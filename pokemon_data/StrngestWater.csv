@@ -1,0 +1,29 @@
+#,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Total
+9,Blastoise,Water,,79,83,100,85,105,78,1,False,530
+9,BlastoiseMega Blastoise,Water,,79,103,120,135,115,78,1,False,630
+62,Poliwrath,Water,Fighting,90,95,95,70,90,70,1,False,510
+73,Tentacruel,Water,Poison,80,70,65,80,120,100,1,False,515
+80,SlowbroMega Slowbro,Water,Psychic,95,75,180,130,80,30,1,False,590
+91,Cloyster,Water,Ice,50,95,180,85,45,70,1,False,525
+121,Starmie,Water,Psychic,60,75,85,100,85,115,1,False,520
+130,Gyarados,Water,Flying,95,125,79,60,100,81,1,False,540
+130,GyaradosMega Gyarados,Water,Dark,95,155,109,70,130,81,1,False,640
+131,Lapras,Water,Ice,130,85,80,85,95,60,1,False,535
+134,Vaporeon,Water,,130,65,60,110,95,65,1,False,525
+160,Feraligatr,Water,,85,105,100,79,83,78,2,False,530
+230,Kingdra,Water,Dragon,75,95,95,95,95,85,2,False,540
+245,Suicune,Water,,100,75,115,90,115,85,2,True,580
+260,Swampert,Water,Ground,100,110,90,85,90,60,3,False,535
+260,SwampertMega Swampert,Water,Ground,100,150,110,95,110,70,3,False,635
+319,SharpedoMega Sharpedo,Water,Dark,70,140,70,110,65,105,3,False,560
+350,Milotic,Water,,95,60,79,100,125,81,3,False,540
+382,Kyogre,Water,,100,100,90,150,140,90,3,True,670
+382,KyogrePrimal Kyogre,Water,,100,150,90,180,160,90,3,True,770
+395,Empoleon,Water,Steel,84,86,88,111,101,60,4,False,530
+484,Palkia,Water,Dragon,90,120,100,150,120,100,4,True,680
+490,Manaphy,Water,,100,100,100,100,100,100,4,False,600
+503,Samurott,Water,,95,100,85,108,70,70,5,False,528
+537,Seismitoad,Water,Ground,105,95,75,85,75,74,5,False,509
+647,KeldeoOrdinary Forme,Water,Fighting,91,72,90,129,90,108,5,False,580
+647,KeldeoResolute Forme,Water,Fighting,91,72,90,129,90,108,5,False,580
+658,Greninja,Water,Dark,72,95,67,103,71,122,6,False,530
