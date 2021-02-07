@@ -16,16 +16,16 @@ period_names=[item.find(class_='period-name').get_text() for item in items]
 short_descriptions=[item.find(class_='short-desc').get_text() for item in items]
 temps=[item.find(class_='temp').get_text() for item in items]
 
-# print(period_names)
-# print(short_descriptions)
-# print(temps)
-#
-# weather_stuff= pd.DataFrame({
-#     'period': period_names,
-#     'description': short_descriptions,
-#     'temperature': temps
-# })
-#
-# print(weather_stuff)
-#
-# weather_stuff.to_csv('weather.csv')
+print(period_names)
+print(short_descriptions)
+print(temps)
+
+weather_stuff= pd.DataFrame({
+    'period': period_names,
+    'description': short_descriptions,
+    'temperature': temps
+})
+
+print(weather_stuff)
+
+weather_stuff.to_csv('weather.csv')
